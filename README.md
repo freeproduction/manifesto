@@ -1,8 +1,11 @@
-# Manifesto of the Free Production Movement
+## Manifesto of the Free Production Movement
 
 **The basic manifesto:** in Russian, [free-production-manifesto.ru.md](free-production-manifesto.ru.md)
+
 **The version number:** 1.0 
+
 **The translations:**
+
 * in English, [free-production-manifesto.en.md](free-production-manifesto.en.md)
 
 ------------------------------------------------------------------
