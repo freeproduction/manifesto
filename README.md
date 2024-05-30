@@ -2,7 +2,7 @@
 
 **The basic manifesto:** in Russian, [free-production-manifesto.ru.md](free-production-manifesto.ru.md)
 
-**The version number:** 3.0
+**The version number:** 3.1
 
 **The translations:**
 
